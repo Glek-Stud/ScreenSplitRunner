@@ -100,4 +100,3 @@ execute_commands() {
 parse_arguments "$@"
 perform_splits_and_moves
 execute_commands
-echo "All actions have been completed."
